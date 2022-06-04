@@ -1,20 +1,18 @@
-const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+onst CONFIG = {
+    titleWeb: "Thi thế nào rồi",
+    introTitle: 'Nếu bạn có 1 ngày k tốt',
+    introDesc: `Thì cái này có thể giúp bạn... 
+    Ý a là có thể khác hơn`,
+    btnIntro: '^^Hé lôôoo^^',
+    title: 'Hôm nay bạn cảm thấy thế nào 🥰',
+    desc: 'Phải chăng bé đã làm bài khá tốt nhưng tại ý trời ư ',
+    btnYes: 'Khóc cạn dòng sông a ưi😭😭',
+    btnNo: 'Cũng ổn, e chấp nhận được😸😸',
+    question: 'Thoi hãy vui lên nào',
+    btnReply: 'Trả lời một cách tự tin <3<3',
+    reply: 'Dạ',
+    mess: 'Mình biết mà 🥰. Cố gắng lần sau nha 😘😘',
+    messDesc: 'Tin này được tạo ra để bé cảm thấy bị troll thoii, giờ xong ròi á',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    mess: 'Chúc bé một ngày tốt lành, nếu k tốt lắm thì mai mình chúc tiếp nha^^'
 }
